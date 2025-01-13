@@ -1,0 +1,6 @@
+0.0.0.0 www.666.com 1887937684
+1.1.1.1 www.bupt.com.cn 1887937684
+fe80:ffff:ffff:ffff:ffff:ffff:ffff:fe80 www.666.com 1687937684
+114.255.40.65 www.bupt.com.cn 1887937684
+fe80:ffff:ffff:ffff:ffff:ffff:f0ff:fe80 www.bupt.com.cn 1987937684
+
